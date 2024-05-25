@@ -19,7 +19,7 @@ const Developer = () => {
 
   return (
     <div>
-      <h1>{developer.name}</h1>
+      <h5>{developer.name}</h5>
       <p>{developer.role}</p>
     </div>
   );
